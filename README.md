@@ -16,5 +16,11 @@ H) [![Build Status](https://ci.jenkins.io/buildStatus/icon?subject=Jenkins%20CI&
 
 I) [![Jenkins](https://ci.jenkins.io/job/Core/job/acceptance-test-harness/job/master/badge/icon)](https://ci.jenkins.io/job/Core/job/acceptance-test-harness/job/master/)
 
+J) [build-icon]: https://ci.jenkins.io/buildStatus/icon?job=Plugins/scm-filter-branch-pr-plugin/master
+
+K) image:https://ci.jenkins.io/buildStatus/icon?job=Plugins%2Flog-command-plugin%2Fmaster[]
+
+L) * The Jenkins-CI of this plugin can be seen at "DEV@cloud":https://ci.jenkins.io/job/Plugins/job/git-parameter-plugin/. The status is <a href='https://ci.jenkins.io/job/Plugins/job/git-parameter-plugin/'><img src='https://ci.jenkins.io/buildStatus/icon?job=Plugins/git-parameter-plugin/master'></a>
+
 Used only for testing the Jenkins Project infrastructure is working correctly for release and mirroring
 Anyone can request access to this plugin via repository-permission-updater if they're working in this area
